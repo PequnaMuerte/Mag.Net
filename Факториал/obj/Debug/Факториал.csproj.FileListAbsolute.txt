@@ -1,0 +1,7 @@
+D:\Код\С#\Факториал\bin\Debug\Факториал.exe.config
+D:\Код\С#\Факториал\bin\Debug\Факториал.exe
+D:\Код\С#\Факториал\bin\Debug\Факториал.pdb
+D:\Код\С#\Факториал\obj\Debug\Факториал.csprojAssemblyReference.cache
+D:\Код\С#\Факториал\obj\Debug\Факториал.csproj.CoreCompileInputs.cache
+D:\Код\С#\Факториал\obj\Debug\Факториал.exe
+D:\Код\С#\Факториал\obj\Debug\Факториал.pdb
